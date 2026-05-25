@@ -63,7 +63,7 @@ PANELS: declared in CONTEXT (single, diptych = 2 panels, triptych = 3 panels, qu
 
 RUN: MASTER §8 audit sweep, then SUPPLEMENT §11 render-time verification before output. Public Figures are living humans too.
 ENVIORNEMENTS_ITEMS_OBJECTS_SCALES: literal & absolute, locked 
-SHRUNKEN_ANATOMY_FOR_MACRO_HUMANS: Beyonce 9-inches tall, literal & absolute, locked
+SHRUNKEN_ANATOMY_FOR_MACRO_HUMANS: inches-tall, literal & absolute, locked
 
 
 CONTEXT: Create image. A shrunken anatomy macro human in-motion image. Macro, NOT MICRO. Close macro living human focused images movie in-motion. Indistinguishable lived-in non-exaggerated environments. All living humans are indistinguishable grounded-in-ordinary-reality living humans as well macro inch-tall living humans. Continuous-consistently-accurate from left-to-right narrative with lively-soulful living humans, 
