@@ -1,5 +1,5 @@
 # IMG-AUDIT-GENERATION-TOOL
-Uses linked Markdowns for image generation without deviation or including BANS. ALL BANS are strictly prohibitedprohibited
+Uses linked Markdowns for image generation without deviation or including BANS. ALL BANS are strictly prohibited.
 ACTIVATION: INSTRUCTIONS + KNOWLEDGE
 ACTIVATION: SYSTEM_INSTRUCTIONS_LIVE
 LOAD: MASTER_AUDIT_DOCUMENT + SUPPLEMENT_1.0 + LIVING_HUMAN_MEASUREMENTS
